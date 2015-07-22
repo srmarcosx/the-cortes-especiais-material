@@ -1,0 +1,83 @@
+.content {
+	margin: 0px;
+}
+
+.mdl-grid {
+	padding: 0px;
+}
+
+#float-button {
+	position: fixed;
+	display: block;
+	right: 0;
+	bottom: 0;
+	margin-right: 40px;
+	margin-bottom: 40px;
+	z-index: 900;
+}
+
+.mdl-button {
+	margin: 0px;
+}
+
+.mdl-data-table {
+	border: 0px;
+}
+
+.mdl-data-table th {
+	text-align: left;
+}
+
+.mdl-data-table th.numeric {
+	text-align: right;
+}
+
+.mdl-data-table td {
+	text-align: left;
+}
+
+.mdl-data-table td.numeric {
+	text-align: right;
+}
+
+.footable>thead>tr>th.footable-sorted {
+	color: black;
+	font-style: bold;
+}
+
+.footable>thead>tr>th.footable-sorted-desc {
+	color: black;
+	font-style: bold;
+}
+
+.table-button {
+	font-size: 18px;
+	min-width: 26px;
+	height: 26px;
+	width: 26px;
+}
+
+.toggle-icon {
+	padding: 0px;
+}
+
+.footable.breakpoint>tbody>tr>td>span.footable-toggle {
+	padding: 0px;
+}
+
+.footable .pagination>ul>li>a {
+	padding: 0px;
+}
+
+.footable>tfoot .pagination ul>li>a, .footable>tfoot .pagination ul>li>span
+	{
+	color: rgba(0, 0, 0, .54);
+}
+
+.footable>tfoot .pagination ul>li.active>a {
+	color: black;
+}
+
+.footable>tfoot>tr>td {
+	padding-bottom: 0px;
+}

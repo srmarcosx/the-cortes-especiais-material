@@ -1,0 +1,66 @@
+@font-face {
+	font-family: 'Material Icons';
+	src: url('../iconfont/MaterialIcons-Regular.eot');
+	src: url('../iconfont/MaterialIcons-Regular.eot?#iefix')
+		format('embedded-opentype'),
+		url('../iconfont/MaterialIcons-Regular.woff') format('woff'),
+		url('../iconfont/MaterialIcons-Regular.ttf') format('truetype')
+}
+
+.material-icons:before {
+	font-family: 'Material Icons';
+	font-style: normal;
+	font-weight: 400;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased
+}
+
+.icon-add:before {
+	content: "\e145"
+}
+
+.icon-search:before {
+	content: "\e8b6"
+}
+
+.icon-create:before {
+	content: "\e150"
+}
+
+.icon-delete:before {
+	content: "\e872"
+}
+
+.icon-arrow_drop_down:before {
+	content: "\e5c5"
+}
+
+.icon-arrow_drop_up:before {
+	content: "\e5c7"
+}
+
+.icon-keyboard_arrow_left:before {
+	content: "\e314"
+}
+
+.icon-keyboard_arrow_right:before {
+	content: "\e315"
+}
+
+.icon-people:before {
+	content: "\e7fb"
+}
+
+.icon-work:before {
+	content: "\e8f9"
+}
+
+.icon-shopping-cart:before {
+	content: "\e8cc"
+}
+
+.icon-dns:before {
+	content: "\e875"
+}
+
+/* This beautiful CSS-File has been crafted with LESS (lesscss.org) and compiled by simpLESS (wearekiss.com/simpless) */

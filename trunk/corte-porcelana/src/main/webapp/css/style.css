@@ -1,0 +1,144 @@
+#menu {
+	left: 160px;
+	width: 160px;
+	position: fixed;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	z-index: 1000;
+	background: #00A80B;
+	overflow-y: auto;
+}
+
+#content {
+	margin-left: 200px;
+	margin-right: 100px;
+}
+
+#itemMenu {
+	color: white;
+}
+
+div {
+	display: block;
+}
+
+.btn {
+	color: white;
+	background: #00A80B;
+	border-radius: 0px;
+}
+
+.btn-default {
+	border-color: #00A80B;
+}
+
+th {
+	background-color: #00A80B;
+	color: white;
+}
+
+h2 {
+	color: #00A80B;
+}
+
+.navmenu-brand {
+	display: block;
+	font-size: 18px;
+	line-height: 20px;
+	padding: 10px 15px;
+}
+
+a {
+	color: #00A80B;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #00880b;
+	text-decoration: none;
+}
+
+.active>a {
+	color: #00880b;
+	text-decoration: none;
+}
+
+.pagination>li>a, .pagination>li>span {
+	position: relative;
+	float: left;
+	padding: 6px 12px;
+	margin-left: -1px;
+	line-height: 1.42857143;
+	color: white;
+	text-decoration: none;
+	background: #00A80B;
+	border: 1px solid #ddd;
+}
+
+.pagination>.active>a {
+	z-index: 2;
+	color: #fff;
+	cursor: default;
+	background: #00880b;
+	border-color: #00880b;
+}
+
+.pagination>.active>a:hover {
+	z-index: 2;
+	color: #fff;
+	cursor: default;
+	background: #006a09;
+	border-color: #006a09;
+}
+
+.pagination>li>a {
+	z-index: 2;
+	color: #fff;
+	cursor: default;
+	background: #00A80B;
+	border-color: #00A80B;
+}
+
+.pagination>li>a:hover {
+	z-index: 2;
+	color: #fff;
+	cursor: default;
+	background: #00880b;
+	border-color: #00880b;
+}
+
+.pagination>li:last-child>a, .pagination>li:last-child>span, .pagination>li:first-child>a,
+	.pagination>li:first-child>span {
+	border-top-right-radius: 0px;
+	border-bottom-right-radius: 0px;
+	border-top-left-radius: 0px;
+	border-bottom-left-radius: 0px;
+}
+
+.btn:hover {
+	z-index: 2;
+	color: #fff;
+	cursor: default;
+	background: #00880b;
+	border-color: #00880b;
+}
+
+#itemMenu:hover {
+	background: #00880b;
+}
+
+.input-group-addon {
+	color: #fff;
+	background: #00A80B;
+	border-radius: 0px;
+	border: 0px;
+}
+
+.form-control {
+	border-radius: 0px;
+}
+
+#myTable {
+	margin: 0px;
+}

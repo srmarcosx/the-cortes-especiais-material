@@ -1,0 +1,55 @@
+
+.footable > tfoot > tr > th,
+.footable > tfoot > tr > td {
+
+  padding: 10px;
+}
+.footable .pagination {
+  margin: 20px 0;
+}
+.footable .pagination > ul {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+
+}
+.footable .pagination > ul > li {
+  display: inline;
+}
+.footable .pagination > ul > li > a,
+.footable .pagination > ul > li > span {
+  float: left;
+  padding: 4px 12px;
+
+}
+.footable .pagination > ul > li:first-child > a,
+.footable .pagination > ul > li:first-child > span {
+
+}
+.footable .pagination > ul > li:last-child > a,
+.footable .pagination > ul > li:last-child > span {
+
+}
+.footable .pagination > ul > li > a:hover,
+.footable .pagination > ul > li > a:focus,
+.footable .pagination > ul > .active > a,
+.footable .pagination > ul > .active > span {
+}
+.footable .pagination > ul > .active > a,
+.footable .pagination > ul > .active > span {
+  cursor: default;
+}
+.footable .pagination > ul > .disabled > span,
+.footable .pagination > ul > .disabled > a,
+.footable .pagination > ul > .disabled > a:hover,
+.footable .pagination > ul > .disabled > a:focus {
+  cursor: default;
+}
+.footable .pagination.pagination-centered {
+  text-align: center;
+}
+.footable .pagination.pagination-right {
+  text-align: right;
+}
+.footable-odd {
+}

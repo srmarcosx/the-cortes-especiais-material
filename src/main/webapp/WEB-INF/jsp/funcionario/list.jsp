@@ -9,24 +9,24 @@
 <link rel="stylesheet" type="text/css"
 	href="/the-cortes-especiais-material/css/material-icons.css">
 <link rel="stylesheet" type="text/css"
-	href="/the-cortes-especiais-material/css/footable.core.min.css">
+	href="/the-cortes-especiais-material/footable/css/footable.core.min.css">
 <link rel="stylesheet" type="text/css"
-	href="/the-cortes-especiais-material/css/footable.standalone.css">
+	href="/the-cortes-especiais-material/footable/css/footable.standalone.css">
 <link rel="stylesheet"
 	href="/the-cortes-especiais-material/mdl/style.css">
 <link rel="stylesheet"
 	href="/the-cortes-especiais-material/css/style_table.css">
 <script src="/the-cortes-especiais-material/mdl/material.min.js"></script>
 <script type="text/javascript"
-	src="/the-cortes-especiais-material/js/jquery-1.11.2.min.js"></script>
+	src="/the-cortes-especiais-material/footable/js/jquery-1.11.2.min.js"></script>
 <script type="text/javascript"
-	src="/the-cortes-especiais-material/js/footable.js"></script>
+	src="/the-cortes-especiais-material/footable/js/footable.js"></script>
 <script type="text/javascript"
-	src="/the-cortes-especiais-material/js/footable.sort.js"></script>
+	src="/the-cortes-especiais-material/footable/js/footable.sort.js"></script>
 <script type="text/javascript"
-	src="/the-cortes-especiais-material/js/footable.filter.js"></script>
+	src="/the-cortes-especiais-material/footable/js/footable.filter.js"></script>
 <script type="text/javascript"
-	src="/the-cortes-especiais-material/js/footable.paginate.js"></script>
+	src="/the-cortes-especiais-material/footable/js/footable.paginate.js"></script>
 <script type="text/javascript">
 	$(function() {
 

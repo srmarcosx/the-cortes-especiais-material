@@ -17,6 +17,8 @@
 <script src="/the-cortes-especiais-material/mdl/material.min.js"></script>
 <script type="text/javascript" language="javascript"
 	src="/the-cortes-especiais-material/js/jquery-1.11.2.min.js"></script>
+	<script type="text/javascript" language="javascript"
+	src="/the-cortes-especiais-material/js/bootstrap-datepicker.js"></script>
 <script type="text/javascript" language="javascript"
 	src="/the-cortes-especiais-material/js/bootstrap-datepicker.pt-BR.js"></script>
 <script type="text/javascript" language="javascript"
